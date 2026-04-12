@@ -47,8 +47,8 @@ tags: [diablo, 暗黑, 掉落, 装备, 宝箱, 模拟器]
 
 ### 1.1 特殊太初装备定义（固定）
 以下为特殊太初装备，必须严格遵守：
-- **99536**: Blackguard's Boiled Prawn  
-  （黑卫兵博加特的煮虾子）
+- **99536**: Blackguard's Boiled Prawn Claw
+  （黑卫兵博加特的煮虾子爪）
 - **99537**: Maidenless Tarnished Hollow Greatswords  
   （无巫女的褪色者空洞巨剑）
 
