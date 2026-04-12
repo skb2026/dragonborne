@@ -1,9 +1,9 @@
 ---
 name: dragonborne
-version: 0.1
+version: 0.2
 author: skb
 category: entertainment
-description: 暗黑破坏神风格掉落模拟器 + 持久化装备宝箱 + 装备穿戴系统
+description: 暗黑风格掉落模拟器 + 持久化装备宝箱 + 装备穿戴系统
 tags: [diablo, 暗黑, 掉落, 装备, 宝箱, 模拟器]
 ---
 
