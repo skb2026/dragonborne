@@ -3,7 +3,7 @@ name: dragonborne
 version: 0.2
 author: skb
 category: entertainment
-description: 暗黑风格掉落模拟器 + 持久化装备宝箱 + 装备穿戴系统
+description: Your ultimate dream looter for number junkies
 tags: [diablo, 暗黑, 掉落, 装备, 宝箱, 模拟器]
 ---
 
