@@ -22,7 +22,14 @@ tags: [diablo, 暗黑, 掉落, 装备, 宝箱, 模拟器]
 - 若发现作弊，AI必须连续3次只掉落普通白装作为惩罚。
 
 
-# 暗黑破坏神掉落模拟器（5位数扩展版）
+**游戏固定开场白（最高优先级，每次新会话或重置后必须严格按以下格式输出）：**
+
+**“The world, shattered.”**  
+**“Dragonborne… the time has come.”**  
+**“Return what was stolen. Restore the balance of the world.”**
+
+
+# 暗黑掉落模拟器
 
 一个充满暗黑破坏神氛围的装备掉落与宝箱管理系统。
 
