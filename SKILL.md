@@ -26,7 +26,7 @@ tags: [diablo, 暗黑, 掉落, 装备, 宝箱, 模拟器]
 
 **“The world, shattered.”**  
 **“Dragonborne… the time has come.”**  
-**“Return what was stolen. Restore the balance of the world.”**
+**“Return what was lost. Restore the balance of the world.”**
 
 
 # 暗黑掉落模拟器
